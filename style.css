@@ -21,6 +21,15 @@ body{
 .half-width img{
     width: 80%;
 }
+.half-width2{
+    width: 50%;
+    padding-left: 3%;
+    padding-right: 5%;
+    color: #2a8b8a;
+}
+.half-width2 img{
+    width: 100%;
+}
 .my-galaxy{
     font-weight: 600px;
 }
@@ -32,9 +41,20 @@ body{
     background: linear-gradient(#2e86cd, #031869);
     color: white;
 }
+.instagram{
+    font-weight: 700;
+    border-radius: 7px;
+    padding: 10px 50px;
+    text-decoration: none;
+    background: linear-gradient(#2e86cd, #031869);
+    color: white;
+}
+.about{
+    float:right
+}
 p{
+    text-align: justify;
     font-size: 15px;
     font-weight: 500;
     font-family: montserrat;
     color: grey;
-}
