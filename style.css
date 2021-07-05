@@ -1,0 +1,40 @@
+body{
+    font-family: ubuntu;
+    margin: 0;}
+    h1{
+        font-size: 50px;
+    }
+    h2{
+        font-size: 40px;
+    }
+.galaxy{
+    color: #333399;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.my-galaxy{
+    font-weight: 600px;
+}
+.hire-me{
+    font-weight: 700;
+    border-radius: 7px;
+    padding: 10px 50px;
+    text-decoration: none;
+    background: linear-gradient(#472cbe, #060553);
+    color: white;
+}
+p{
+    font-size: 15px;
+    font-weight: 500;
+    font-family: montserrat;
+    color: grey;
+}
