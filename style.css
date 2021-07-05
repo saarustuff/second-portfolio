@@ -8,7 +8,7 @@ body{
         font-size: 40px;
     }
 .galaxy{
-    color: #333399;
+    color: #2e86cd;
 }
 .flexible-container{
     display: flex;
@@ -29,7 +29,7 @@ body{
     border-radius: 7px;
     padding: 10px 50px;
     text-decoration: none;
-    background: linear-gradient(#472cbe, #060553);
+    background: linear-gradient(#2e86cd, #031869);
     color: white;
 }
 p{
